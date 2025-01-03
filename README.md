@@ -2,7 +2,9 @@
 
 A set of GUI applications for manipulating PDF files, with support for splitting and merging documents.
 
-![4f9c57e9-cd38-4c22-8f0a-5d5c08893b8c](https://github.com/user-attachments/assets/d7ffb901-1387-4434-89e4-64ee8408cb7c)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/d7ffb901-1387-4434-89e4-64ee8408cb7c" width="400" height="400" />
+</div>
 
 ## Features
 
